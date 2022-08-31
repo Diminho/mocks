@@ -1,0 +1,10 @@
+request:
+  method: GET
+  path: /alerting/v2/partners/50016338/suspended-endpoints
+control:
+  delay: "20ms"
+response:
+  statusCode: 200
+  body: >
+   []
+     

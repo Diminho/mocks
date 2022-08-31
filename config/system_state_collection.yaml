@@ -1,0 +1,1210 @@
+request:
+  method: GET
+  path: /systemstate/v1/partner/50016338/endpoints
+control:
+  delay: "55ms"
+response:
+  statusCode: 200
+  body: >
+    [
+      {
+        "createTimeUTC": "2022-08-14T14:44:20.17Z",
+        "endpointID": "05ffa109-243d-4316-9ce6-b3b837ba4aef",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "50110883",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2022-07-20T16:53:10.136Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "WIN1001\\admin",
+          "logonTime": "2022-07-20T17:02:59.732Z",
+          "status": "Disconnected",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2022-07-20T13:26:31.348Z"
+          },
+          {
+            "username": "WIN1001\\admin",
+            "sessionID": "1",
+            "status": "Disconnected",
+            "isAdmin": true,
+            "logonTime": "2022-07-20T17:02:59.732Z"
+          },
+          {
+            "sessionID": "3",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2022-07-20T17:03:09.045Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "08bcb03a-8a77-4cc2-b242-668c7bcbe431",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "64560093"
+      },
+      {
+        "createTimeUTC": "2020-02-07T16:41:20.436Z",
+        "endpointID": "0cfdb697-4d72-4e30-b906-446df5355f84",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2020-02-07T10:07:46Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "MSEDGEWIN10\\IEUser",
+          "logonTime": "2020-02-07T02:14:38Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2020-02-07T02:07:48Z"
+          },
+          {
+            "username": "MSEDGEWIN10\\IEUser",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2020-02-07T02:14:38Z"
+          }
+        ]
+      },
+      {
+        "endpointID": "0d2e9ca3-f3b7-441f-a3a7-7e09d2ad1b98",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "03230410"
+      },
+      {
+        "endpointID": "1349ee50-85f5-4da0-b3c7-1a102239cace",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "12387802"
+      },
+      {
+        "endpointID": "1b15cc4f-ea6e-4096-a331-0c0eef4941ce",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "04028170"
+      },
+      {
+        "endpointID": "1cee5210-20a7-4197-8514-3ce70338da9b",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "22534580"
+      },
+      {
+        "endpointID": "290f8ab7-edaa-4050-97c8-a8c5950d7ab1",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "24850999"
+      },
+      {
+        "endpointID": "2a38fa56-3a78-4845-942b-bcb693cb54c4",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "74896340"
+      },
+      {
+        "createTimeUTC": "2018-10-25T11:45:58.127Z",
+        "endpointID": "2a5b116c-1e9d-4e34-850b-5a41d2021eea",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-10-25T11:37:50.453Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "dmytro-test\\dmytro",
+          "logonTime": "2018-10-25T02:38:00Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-25T14:38:03Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Down",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "313f3fe5-d62a-4e04-98d9-00cd2adc3aed",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "18934680"
+      },
+      {
+        "createTimeUTC": "2018-10-25T10:06:02.053Z",
+        "endpointID": "35692e2a-ef8e-44f8-bf50-11b9fc1d4233",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-10-25T09:04:44.5Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "dmytro-pc\\dmytro",
+          "logonTime": "2018-10-25T12:04:53Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-25T12:04:50Z"
+          },
+          {
+            "username": "dmytro-pc\\dmytro",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": false,
+            "logonTime": "2018-10-25T12:04:53Z"
+          }
+        ]
+      },
+      {
+        "endpointID": "35b1bec1-5930-4f5c-b393-012d63024f6a",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "28162865"
+      },
+      {
+        "createTimeUTC": "2019-09-06T05:54:15.052Z",
+        "endpointID": "35dc2686-eb97-483a-af6f-92bf9c96e90f",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-08-04T23:49:37Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DEV-W2K8R2-64-1\\Administrator",
+          "logonTime": "2019-06-15T23:45:53Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2019-09-05T22:20:54Z"
+          },
+          {
+            "username": "DEV-W2K8R2-64-1\\Administrator",
+            "sessionID": "1",
+            "sessionName": "RDP-Tcp#0",
+            "status": "Active",
+            "client": "RMM-PN-LT-137",
+            "isAdmin": true,
+            "logonTime": "2019-06-15T23:45:53Z"
+          },
+          {
+            "sessionID": "3",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "3cedfd3b-54b8-4c0c-8a1b-e00c70d25649",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "81604793"
+      },
+      {
+        "endpointID": "43702b9e-725c-45cd-a1e5-b4c233ffa059",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "54472734"
+      },
+      {
+        "endpointID": "4610dcc0-1a77-4e84-884f-2d2ce2b4b381",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "20544539"
+      },
+      {
+        "createTimeUTC": "2019-05-21T10:04:24.092Z",
+        "endpointID": "4919484c-ced0-44e4-bd7b-d8b2fb428e36",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-05-21T09:33:59.493Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DEV-W2K12-64-1\\Administrator",
+          "logonTime": "2019-05-21T02:36:11Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2019-05-21T02:35:47Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2019-05-21T02:35:10Z"
+          },
+          {
+            "username": "DEV-W2K12-64-1\\Administrator",
+            "sessionID": "2",
+            "sessionName": "RDP-Tcp#0",
+            "status": "Active",
+            "client": "RMM-LT-753",
+            "isAdmin": true,
+            "logonTime": "2019-05-21T02:36:11Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2022-08-14T11:28:20.424Z",
+        "endpointID": "4a9caa07-d45a-4c14-aa36-8c1c26e7a029",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2022-06-08T13:06:17.5Z"
+        },
+        "lastLoggedOnUser": {
+          "username": ".\\Administrator",
+          "logonTime": "2022-06-08T13:14:20.227Z",
+          "status": "Inactive",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2022-06-08T13:17:04.854Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2020-05-06T11:45:18.08Z",
+        "endpointID": "513cf40f-0081-41ff-8c6e-3d9a53535eb2",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2020-04-27T12:11:49Z"
+        },
+        "lastLoggedOnUser": {
+          "username": ".\\Administrator",
+          "logonTime": "2020-04-27T05:12:00Z",
+          "status": "Inactive",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2020-04-27T05:12:03Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2020-04-27T05:12:03Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "5b52bca8-57e0-4f6b-b04c-9132cebaaabd",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "60044716"
+      },
+      {
+        "createTimeUTC": "2019-09-23T12:04:28.248Z",
+        "endpointID": "5ef0230e-a490-411f-9011-1a3f349538f7",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-09-23T11:23:37Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "continuum",
+          "logonTime": "2019-09-23T15:04:00Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "username": "continuum",
+            "sessionID": "ttys002",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2019-09-23T15:04:00Z"
+          },
+          {
+            "username": "continuum",
+            "sessionID": "ttys001",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2019-09-23T14:39:00Z"
+          },
+          {
+            "username": "continuum",
+            "sessionID": "ttys000",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2019-09-23T14:29:00Z"
+          },
+          {
+            "username": "continuum",
+            "sessionID": "console",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2019-09-23T14:24:00Z"
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2019-03-20T16:21:57.578Z",
+        "endpointID": "60d5e54e-3272-430c-bcf8-12f3126488dd",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "50110883",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-03-20T14:56:51.109Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "RVTEMP1020\\user",
+          "logonTime": "2019-03-20T16:57:30Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2019-03-20T16:57:23Z"
+          },
+          {
+            "username": "RVTEMP1020\\user",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": false,
+            "logonTime": "2019-03-20T16:57:30Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "65f08065-95d1-42f4-b088-0185ba1207e0",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "08958107"
+      },
+      {
+        "createTimeUTC": "2018-12-03T16:06:52.2Z",
+        "endpointID": "7398bfa7-9513-4668-92a1-d02f92c17193",
+        "partnerID": "50016338",
+        "clientID": "50016338",
+        "siteID": "50110521",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-07-17T19:58:52.5Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DT-WIN7-32-3\\Administrator",
+          "logonTime": "2018-07-17T11:59:15Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-07-17T11:59:07Z"
+          },
+          {
+            "username": "DT-WIN7-32-3\\Administrator",
+            "sessionID": "1",
+            "sessionName": "RDP-Tcp#0",
+            "status": "Active",
+            "client": "RMM-PN-LT-067",
+            "isAdmin": true,
+            "logonTime": "2018-07-17T11:59:15Z"
+          },
+          {
+            "sessionID": "3",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "759b3861-819f-447c-841b-4fb73f7a0471",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "15231890"
+      },
+      {
+        "endpointID": "77aa4373-35b2-4cc6-8506-0ed43df2ce57",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "89816427"
+      },
+      {
+        "endpointID": "7af89617-183a-4829-86a4-a73912b58830",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "02730816"
+      },
+      {
+        "endpointID": "7b6c6b3b-d2ed-4d85-addd-6181ef1d398b",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "66846497"
+      },
+      {
+        "endpointID": "7b7d0070-afc2-4cef-860a-f08ed0fca906",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "75938098"
+      },
+      {
+        "endpointID": "7de9e58b-9837-484a-ab4f-71936118531b",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "37668660"
+      },
+      {
+        "createTimeUTC": "2019-04-12T10:39:48.36Z",
+        "endpointID": "7e71a05f-5ebc-4807-9b57-3acb8af3b323",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-01-07T06:32:10.484Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DEV-WIN7-64-1\\Administrator",
+          "logonTime": "2019-01-08T13:27:49Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2019-01-07T09:34:22Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false
+          },
+          {
+            "username": "DEV-WIN7-64-1\\Administrator",
+            "sessionID": "2",
+            "status": "Disconnected",
+            "isAdmin": true,
+            "logonTime": "2019-01-08T13:27:49Z"
+          },
+          {
+            "sessionID": "3",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2019-04-12T13:39:34Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2020-05-22T22:21:53.104Z",
+        "endpointID": "869bacaf-d461-4482-ab78-90e58b1e4bd6",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2020-05-22T03:55:26Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "WINDEV2004EVAL\\User",
+          "logonTime": "2020-05-21T05:37:07Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2020-05-21T05:37:00Z"
+          },
+          {
+            "username": "WINDEV2004EVAL\\User",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2020-05-21T05:37:07Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "7A78855482A04FA781DC",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "88578124-1ecd-4d74-bf6e-72766f78f6fc",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "59337101"
+      },
+      {
+        "createTimeUTC": "2018-10-29T16:55:37.048Z",
+        "endpointID": "89a2e6d7-6709-4a76-b82f-548c1a607fee",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-10-24T20:27:57.484Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "vmWin7x32templ\\adminaccount",
+          "logonTime": "2018-10-25T12:45:13Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-24T22:28:02Z"
+          },
+          {
+            "username": "vmWin7x32templ\\adminaccount",
+            "sessionID": "3",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-25T12:45:13Z"
+          },
+          {
+            "sessionID": "4",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2022-08-14T16:21:33.101Z",
+        "endpointID": "8f455a30-29b1-42e4-8023-e2fb7e22eccf",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2022-06-08T13:05:30.498Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "Administrator",
+          "logonTime": "2022-06-08T13:13:32.873Z",
+          "status": "Inactive",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2022-06-08T13:14:38.116Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2022-06-08T13:08:51.398Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "920fbe44-3b14-43a7-9df7-10bca5f3a976",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "10180750"
+      },
+      {
+        "createTimeUTC": "2018-10-30T09:00:22.623Z",
+        "endpointID": "9515ea1b-8b2e-49e4-8f83-bba588e35250",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-10-30T08:17:18.486Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "testmachineid\\test-win-8-32",
+          "logonTime": "2018-10-30T11:18:37Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-30T11:17:34Z"
+          },
+          {
+            "username": "testmachineid\\test-win-8-32",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": false,
+            "logonTime": "2018-10-30T11:18:37Z"
+          }
+        ]
+      },
+      {
+        "endpointID": "9ac82c33-bf06-4e03-8d6f-32e06b4b483e",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "05885023"
+      },
+      {
+        "endpointID": "a0e4b451-6505-477e-a968-19b5db0b10c3",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "75372261"
+      },
+      {
+        "endpointID": "a486ab6d-b472-4ee2-81c9-74d406892b40",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "14043097"
+      },
+      {
+        "endpointID": "a62b40db-74ef-40b1-830c-a106aa6033f6",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "66659045"
+      },
+      {
+        "endpointID": "af0403ba-9257-445c-b794-c6bd98499be1",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "29324416"
+      },
+      {
+        "endpointID": "b49e1330-02dc-48cb-9738-ea6d76b52884",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "70778641"
+      },
+      {
+        "endpointID": "c2deef44-bf95-42a1-9255-d7d4d9c33fbc",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "24736797"
+      },
+      {
+        "createTimeUTC": "2019-08-02T13:25:59.16Z",
+        "endpointID": "c65cad16-ce83-4980-98dc-cbbb296ccd33",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-08-01T16:53:39Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DEV-W2K16-64-1\\Administrator",
+          "logonTime": "2019-08-01T09:58:24Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2019-08-01T09:54:11Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2019-08-01T09:54:13Z"
+          },
+          {
+            "username": "DEV-W2K16-64-1\\Administrator",
+            "sessionID": "2",
+            "sessionName": "RDP-Tcp#5",
+            "status": "Active",
+            "client": "RMM-PN-LT-024",
+            "isAdmin": true,
+            "logonTime": "2019-08-01T09:58:24Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2018-10-25T11:11:46.659Z",
+        "endpointID": "c830855b-1b42-446a-bdda-ed54f9da9297",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-10-25T11:03:53.453Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "dmytro-test\\dmytro",
+          "logonTime": "2018-10-25T14:04:13Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-25T14:04:05Z"
+          },
+          {
+            "username": "dmytro-test\\dmytro",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": false,
+            "logonTime": "2018-10-25T14:04:13Z"
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2021-11-18T15:25:42.254Z",
+        "endpointID": "ccaa2f69-1f99-491e-a726-8d834770bf37",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2021-05-07T12:33:46.498Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DEV-W2K12R2-64-\\administrator",
+          "logonTime": "2021-05-07T12:34:55.079Z",
+          "status": "Inactive",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2021-05-07T12:37:38.509Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2021-05-07T12:34:49.58Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "dbd50274-b848-40a9-8121-80c80d14ca0a",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "82539070"
+      },
+      {
+        "endpointID": "dc8b4842-685a-45a3-824f-b9cd21c2bb81",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "84864333"
+      },
+      {
+        "endpointID": "e19ddd98-20b0-4955-80c5-aef91d382930",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "97451850"
+      },
+      {
+        "createTimeUTC": "2018-12-19T12:20:00.86Z",
+        "endpointID": "e45f67ed-1f5f-4357-8a24-bc0e612528b5",
+        "partnerID": "50016338",
+        "clientID": "50110538",
+        "siteID": "50110538",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-06-25T03:23:01.487Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "PR-W81-32-2\\Administrator",
+          "logonTime": "2018-11-01T09:14:09Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-06-24T19:27:40Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2018-06-24T19:26:03Z"
+          },
+          {
+            "username": "PR-W81-32-2\\Administrator",
+            "sessionID": "2",
+            "status": "Disconnected",
+            "isAdmin": true,
+            "logonTime": "2018-11-01T09:14:09Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "e719ac23-03ae-471a-809d-212d75dd685f",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "47014465"
+      },
+      {
+        "endpointID": "ece9c5ef-7ba9-4312-85be-760060285239",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "21594768"
+      },
+      {
+        "createTimeUTC": "2022-08-14T13:54:48.661Z",
+        "endpointID": "ecf6aed7-2a00-480b-ae56-81414597e8e6",
+        "partnerID": "50016338",
+        "clientID": "50122438",
+        "siteID": "50122438",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2022-03-05T04:37:21.121Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "MAILHOST\\mykhailo.vasylchenko",
+          "logonTime": "2022-03-07T13:07:23.717Z",
+          "status": "Disconnected",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2022-08-14T13:53:11.066Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2022-03-05T04:37:09.419Z"
+          },
+          {
+            "username": "MAILHOST\\mykhailo.vasylchenko",
+            "sessionID": "2",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2022-03-07T13:07:23.717Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "31C5CE94259D4006A9E4",
+            "status": "Listen",
+            "isAdmin": false
+          },
+          {
+            "sessionID": "65537",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          },
+          {
+            "sessionID": "65538",
+            "sessionName": "rdp-sxs220516200",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2020-01-08T09:22:28.055Z",
+        "endpointID": "eea841b1-2451-40d4-8727-b0cf8f6d6b04",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2019-12-29T04:07:26Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "DEV-W2K12-64-1\\Administrator",
+          "logonTime": "2019-11-15T04:45:41Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2020-01-08T01:19:22Z"
+          },
+          {
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Connected",
+            "isAdmin": false,
+            "logonTime": "2019-11-09T03:08:31Z"
+          },
+          {
+            "username": "DEV-W2K12-64-1\\Administrator",
+            "sessionID": "2",
+            "sessionName": "RDP-Tcp#0",
+            "status": "Active",
+            "client": "RMM-PN-LT-042",
+            "isAdmin": true,
+            "logonTime": "2019-11-15T04:45:41Z"
+          },
+          {
+            "sessionID": "65536",
+            "sessionName": "RDP-Tcp",
+            "status": "Listen",
+            "isAdmin": false
+          }
+        ]
+      },
+      {
+        "endpointID": "f2fda926-4da2-4996-aa1e-9b6bdf8f1f7e",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "15869378"
+      },
+      {
+        "endpointID": "f37ac1ac-7abe-4824-9e8c-6703416516de",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "41799627"
+      },
+      {
+        "endpointID": "f41bf173-a184-43e9-86fc-fda5783747a2",
+        "partnerID": "50016338",
+        "clientID": "50110883",
+        "siteID": "93206041"
+      },
+      {
+        "createTimeUTC": "2021-06-25T06:53:59.037Z",
+        "endpointID": "f59dfc24-9ab7-493e-b65e-0b26895883a5",
+        "partnerID": "50016338",
+        "clientID": "50122438",
+        "siteID": "50122438",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2021-06-25T06:40:10.831Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "YURIYDIDUKHB375\\ydidukh",
+          "logonTime": "2021-06-24T18:51:28.459Z",
+          "status": "Active",
+          "isAdmin": true
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2021-06-24T18:51:27.66Z"
+          },
+          {
+            "username": "YURIYDIDUKHB375\\ydidukh",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": true,
+            "logonTime": "2021-06-24T18:51:28.459Z"
+          }
+        ]
+      },
+      {
+        "createTimeUTC": "2018-10-30T08:59:47.098Z",
+        "endpointID": "f61370e8-6d9d-437a-8b81-a97b8357e797",
+        "partnerID": "50016338",
+        "clientID": "50110859",
+        "siteID": "50110859",
+        "startupStatus": {
+          "lastBootUpTimeUTC": "2018-10-30T08:17:20.452Z"
+        },
+        "lastLoggedOnUser": {
+          "username": "TESTMACHINEID-C\\test-win-8-32",
+          "logonTime": "2018-10-30T11:18:32Z",
+          "status": "Active",
+          "isAdmin": false
+        },
+        "loggedOnUsers": [
+          {
+            "sessionID": "0",
+            "sessionName": "Services",
+            "status": "Disconnected",
+            "isAdmin": false,
+            "logonTime": "2018-10-30T11:17:34Z"
+          },
+          {
+            "username": "TESTMACHINEID-C\\test-win-8-32",
+            "sessionID": "1",
+            "sessionName": "Console",
+            "status": "Active",
+            "isAdmin": false,
+            "logonTime": "2018-10-30T11:18:32Z"
+          }
+        ]
+      }
+    ]

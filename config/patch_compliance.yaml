@@ -1,0 +1,27 @@
+request:
+  method: GET
+  path: /os-patching/v1/partners/50016338/compliance
+control:
+  delay: "95ms"
+response:
+  statusCode: 200
+  body: >
+     {
+        "complianceStatuses": [
+          {
+            "endpointID": "05ffa109-243d-4316-9ce6-b3b837ba4aef",
+            "compliance": 66,
+            "outOfSupport": false,
+            "pendingReboot": false,
+            "lastAssessed": "2022-08-14T20:35:08.176Z"
+          },
+          {
+            "endpointID": "8f455a30-29b1-42e4-8023-e2fb7e22eccf",
+            "compliance": 0,
+            "outOfSupport": false,
+            "pendingReboot": false,
+            "lastAssessed": "2022-08-14T21:54:42.205Z"
+          }
+        ],
+        "totalCount": 2
+      }

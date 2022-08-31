@@ -1,0 +1,61 @@
+request:
+  method: GET
+  path: /v2/partner/50016338/antivirusstatus
+control:
+  delay: "4ms"
+response:
+  statusCode: 200
+  body: >
+    {
+      "antiVirusList": [
+        {
+          "siteId": 50110859,
+          "partnerId": 50016338,
+          "regId": 53758917,
+          "antiVirusStatus": "Synced"
+        },
+        {
+          "siteId": 50110883,
+          "partnerId": 50016338,
+          "regId": 53880003,
+          "antiVirusStatus": "Synced"
+        },
+        {
+          "siteId": 50110859,
+          "partnerId": 50016338,
+          "regId": 53758937,
+          "antiVirusStatus": "Synced"
+        },
+        {
+          "siteId": 50110859,
+          "partnerId": 50016338,
+          "regId": 53758935,
+          "antiVirusStatus": "Synced"
+        },
+        {
+          "siteId": 50122123,
+          "partnerId": 50016338,
+          "regId": 53879520,
+          "antiVirusStatus": "Not Available"
+        },
+        {
+          "siteId": 50122438,
+          "partnerId": 50016338,
+          "regId": 53879144,
+          "antiVirusStatus": "Not Available"
+        },
+        {
+          "siteId": 50110883,
+          "partnerId": 50016338,
+          "regId": 53759211,
+          "antiVirusStatus": "Synced"
+        },
+        {
+          "siteId": 50122438,
+          "partnerId": 50016338,
+          "regId": 53879398,
+          "antiVirusStatus": "Not Supported"
+        }
+      ],
+      "totalCount": 8
+    }

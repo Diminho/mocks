@@ -1,0 +1,2949 @@
+request:
+  method: GET
+  path: /extensibility-management/v1/partners/50016338/ui-customizations/devices-summary_endpoint-protection
+response:
+  statusCode: 200
+  body: >
+    [
+      {
+        "integratorId": "018d59d8-1515-41f6-a14e-2475ded9e081",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "EBhRSesXWo",
+          "context": "partner",
+          "layout": {
+            "width": 261095651,
+            "height": 1537845529,
+            "gridSize": 1486118651,
+            "type": "kgGVWkHGJE"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "psioicijAI",
+              "value": {
+                "source": "zQoTUiAPtW",
+                "value": "wybotEyPpa"
+              },
+              "layout": {
+                "width": 1118297101,
+                "height": 1489921168,
+                "gridSize": 350088355,
+                "type": "xSlYYqitPF"
+              },
+              "align": {
+                "rowIndex": 1121516383,
+                "columnIndex": 1142334939,
+                "width": 496052802,
+                "height": 868144554
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "036cc820-e8f8-4c33-a93c-3cb00d63f42b",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "ziicAzoOTn",
+          "context": "partner",
+          "layout": {
+            "width": 371700350,
+            "height": 1816446219,
+            "gridSize": 1369529409,
+            "type": "XCfoiKAoqU"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "plyRhPAlBM",
+              "value": {
+                "source": "NLUaDfHwic",
+                "value": "FbBxasRhLv"
+              },
+              "layout": {
+                "width": 1866260821,
+                "height": 484288990,
+                "gridSize": 2020264246,
+                "type": "gYaUwsqMuE"
+              },
+              "align": {
+                "rowIndex": 2127626876,
+                "columnIndex": 1602227823,
+                "width": 1541675268,
+                "height": 591334950
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "05c5bad9-9e80-4b95-af31-7d4e9ab4624d",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "XSKfvXIhbJ",
+          "context": "partner",
+          "layout": {
+            "width": 136246988,
+            "height": 1310359397,
+            "gridSize": 2060169471,
+            "type": "PivAPqOTWz"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "UWXXQRjkwp",
+              "value": {
+                "source": "IAbOXWqOPd",
+                "value": "ONZHDZClsb"
+              },
+              "layout": {
+                "width": 1263765423,
+                "height": 1748309366,
+                "gridSize": 246262016,
+                "type": "DreHbrgDgu"
+              },
+              "align": {
+                "rowIndex": 1562402536,
+                "columnIndex": 1700531184,
+                "width": 1428757719,
+                "height": 1164111687
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "12f3b3f5-7155-4303-ab0e-c93119fb3045",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "auwMxJkbaZ",
+          "context": "partner",
+          "layout": {
+            "width": 2117420562,
+            "height": 1098888132,
+            "gridSize": 657953032,
+            "type": "EBmmpJDZjr"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "sisWYBkRKY",
+              "value": {
+                "source": "bsXQVcMPEA",
+                "value": "EoMTRBdkrm"
+              },
+              "layout": {
+                "width": 1362321592,
+                "height": 1987554517,
+                "gridSize": 192333102,
+                "type": "iKbHUjTJCq"
+              },
+              "align": {
+                "rowIndex": 622409655,
+                "columnIndex": 1278179414,
+                "width": 1238640565,
+                "height": 83610443
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "169e6f12-3f40-4868-a2b9-b5b8c6b50a8e",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "nmuNKdhMaP",
+          "context": "partner",
+          "layout": {
+            "width": 1205310841,
+            "height": 1874296533,
+            "gridSize": 814104604,
+            "type": "TZUvOLCqOB"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "TQGOmUTMAd",
+              "value": {
+                "source": "GFmNCegKOs",
+                "value": "XNMYNfLIKC"
+              },
+              "layout": {
+                "width": 814095001,
+                "height": 158538883,
+                "gridSize": 240328247,
+                "type": "mQYfDBxRuF"
+              },
+              "align": {
+                "rowIndex": 1569320502,
+                "columnIndex": 1693954046,
+                "width": 1721541650,
+                "height": 1144269549
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "18596546-7b2d-4991-8ddd-44d4e45e4946",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "AnWeaLTtbJ",
+          "context": "partner",
+          "layout": {
+            "width": 112709837,
+            "height": 353604843,
+            "gridSize": 328455082,
+            "type": "sFvFrfzTMT"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "YewOqJWhUk",
+              "value": {
+                "source": "rXvuQckagB",
+                "value": "muiivhePuw"
+              },
+              "layout": {
+                "width": 791096584,
+                "height": 823206359,
+                "gridSize": 1474339266,
+                "type": "FAZkkxznTT"
+              },
+              "align": {
+                "rowIndex": 1674960319,
+                "columnIndex": 1018227311,
+                "width": 2103356059,
+                "height": 552061126
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "28a9ca97-04c2-4699-9fa6-f14c11901296",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "UhBhQXgfeh",
+          "context": "partner",
+          "layout": {
+            "width": 1183831274,
+            "height": 1521222647,
+            "gridSize": 1014921280,
+            "type": "nxLEKTsSll"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "SGicmiMnze",
+              "value": {
+                "source": "MuCThqjiTS",
+                "value": "fROFhHvJtX"
+              },
+              "layout": {
+                "width": 56038784,
+                "height": 408026526,
+                "gridSize": 1134253290,
+                "type": "dhmdFGsKfR"
+              },
+              "align": {
+                "rowIndex": 456304829,
+                "columnIndex": 1037817645,
+                "width": 203122062,
+                "height": 266488957
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "2a523ed8-eec2-4f14-a487-f5c023582acc",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "SkvsErPkhN",
+          "context": "partner",
+          "layout": {
+            "width": 431335420,
+            "height": 1895281200,
+            "gridSize": 1767925407,
+            "type": "NSbxSaUUlM"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "WIKvQhecFE",
+              "value": {
+                "source": "XMZZiXxKEb",
+                "value": "bZnBZkEHBl"
+              },
+              "layout": {
+                "width": 2134832000,
+                "height": 839920200,
+                "gridSize": 257311757,
+                "type": "tOIVrPmTpn"
+              },
+              "align": {
+                "rowIndex": 1973433030,
+                "columnIndex": 1048809928,
+                "width": 177693090,
+                "height": 411789550
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "2b54c359-411a-4458-b167-9607a6296e00",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "iMaJGOEssN",
+          "context": "partner",
+          "layout": {
+            "width": 1663145661,
+            "height": 1449278233,
+            "gridSize": 2052945132,
+            "type": "BpfHvboDZx"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "byVyaAQZdJ",
+              "value": {
+                "source": "cwRPvRZTpA",
+                "value": "rnlHhdTAZg"
+              },
+              "layout": {
+                "width": 2094372942,
+                "height": 982649287,
+                "gridSize": 362486362,
+                "type": "ATuMEPupTt"
+              },
+              "align": {
+                "rowIndex": 1781752058,
+                "columnIndex": 1322903909,
+                "width": 910737626,
+                "height": 1412653835
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "2d4a366b-ab1e-4dd2-9606-1cb4014209bf",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "RhRMNVVCcV",
+          "context": "partner",
+          "layout": {
+            "width": 1327819927,
+            "height": 1989740846,
+            "gridSize": 1248752970,
+            "type": "FXRlnaVDRG"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "tALANZvKAd",
+              "value": {
+                "source": "rbaDczsoKj",
+                "value": "LIAEAjQkaC"
+              },
+              "layout": {
+                "width": 988011214,
+                "height": 482741304,
+                "gridSize": 1263441848,
+                "type": "yHYpOlLVCf"
+              },
+              "align": {
+                "rowIndex": 1888451406,
+                "columnIndex": 462724197,
+                "width": 1256101005,
+                "height": 1009512512
+              },
+              "action": {
+                "taskId": "MIaqSMztvs",
+                "taskName": "LRQjLfYpug",
+                "description": ""
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "320e0f84-9bb5-480f-bf65-30be796b8c40",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "rttVSuhhoY",
+          "context": "partner",
+          "layout": {
+            "width": 846914240,
+            "height": 1430882600,
+            "gridSize": 1122575084,
+            "type": "IoiPMutbXq"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "ClaunIbhFR",
+              "value": {
+                "source": "UjruMxZSZs",
+                "value": "EfzBvThupt"
+              },
+              "layout": {
+                "width": 1037478850,
+                "height": 1274675300,
+                "gridSize": 123828603,
+                "type": "DTtVMysaqJ"
+              },
+              "align": {
+                "rowIndex": 1047059028,
+                "columnIndex": 191602082,
+                "width": 1151914065,
+                "height": 676565040
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "329bf229-1e21-4c3f-a120-9d23e5d01eee",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "pNBCaZabNr",
+          "context": "partner",
+          "layout": {
+            "width": 2008528789,
+            "height": 1823595153,
+            "gridSize": 1965366705,
+            "type": "YjdlnEShCT"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "ZAosKoKoYQ",
+              "value": {
+                "source": "pktoRQeneL",
+                "value": "lHjvPrtBtY"
+              },
+              "layout": {
+                "width": 1122141111,
+                "height": 1526815920,
+                "gridSize": 1722907315,
+                "type": "QMLUWTYsuD"
+              },
+              "align": {
+                "rowIndex": 1526222531,
+                "columnIndex": 1799708717,
+                "width": 802935472,
+                "height": 1821845389
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "32d2ac0b-4b4f-4d4f-bf7a-4b1504adf18a",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "CWjmGVrpAf",
+          "context": "partner",
+          "layout": {
+            "width": 974992055,
+            "height": 999865064,
+            "gridSize": 860862555,
+            "type": "EEnJbeMjqa"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "IlXkOPZKFx",
+              "value": {
+                "source": "bJSeBUVOth",
+                "value": "nErtdUeOiG"
+              },
+              "layout": {
+                "width": 1531832044,
+                "height": 1600282402,
+                "gridSize": 1520284032,
+                "type": "HnIipGrSZL"
+              },
+              "align": {
+                "rowIndex": 1183768251,
+                "columnIndex": 2086909908,
+                "width": 496467039,
+                "height": 390772293
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "3a915040-4be1-4794-93ef-3bab82c6b089",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "quoDqCRIyd",
+          "context": "partner",
+          "layout": {
+            "width": 1387455574,
+            "height": 1128517977,
+            "gridSize": 2097035489,
+            "type": "AWjSoRxmTE"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "NOUCWlnaSZ",
+              "value": {
+                "source": "FmCtlCIujH",
+                "value": "aapmkYRGEA"
+              },
+              "layout": {
+                "width": 608503577,
+                "height": 1085704831,
+                "gridSize": 208338460,
+                "type": "UOQnVIoAhB"
+              },
+              "align": {
+                "rowIndex": 708316337,
+                "columnIndex": 588464569,
+                "width": 1347026601,
+                "height": 429614535
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "44e41868-bc48-42dd-93a7-750b5563c286",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "VFYAJbXBQV",
+          "context": "partner",
+          "layout": {
+            "width": 1616776651,
+            "height": 125534296,
+            "gridSize": 438948005,
+            "type": "VNWhwsetpB"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "SEgOJsaSir",
+              "value": {
+                "source": "wmcphcwfFH",
+                "value": "vxpHLCfluJ"
+              },
+              "layout": {
+                "width": 1030233425,
+                "height": 1492934544,
+                "gridSize": 1148306087,
+                "type": "vcdtkyHPTO"
+              },
+              "align": {
+                "rowIndex": 610097623,
+                "columnIndex": 622576457,
+                "width": 1274254741,
+                "height": 233395306
+              },
+              "action": {
+                "taskId": "cJhvVxsdaw",
+                "taskName": "xNLUsPfpMk",
+                "description": ""
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "49206d45-a190-4a56-9c99-cce56f2a5b9b",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "yEBfVSMUpi",
+          "context": "partner",
+          "layout": {
+            "width": 1002505409,
+            "height": 767248176,
+            "gridSize": 484062807,
+            "type": "TKlkxRhNgV"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "JotXdEfxzL",
+              "value": {
+                "source": "ZKngcAuccc",
+                "value": "NJclSAwCOi"
+              },
+              "layout": {
+                "width": 779090737,
+                "height": 273109938,
+                "gridSize": 901346874,
+                "type": "HmhvtUMQXM"
+              },
+              "align": {
+                "rowIndex": 906152201,
+                "columnIndex": 442838205,
+                "width": 127688764,
+                "height": 257293801
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "4a78bcc9-9479-4579-8967-d7594bce59ee",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "gJTtPBnfZK",
+          "context": "partner",
+          "layout": {
+            "width": 15713926,
+            "height": 1188753480,
+            "gridSize": 2127840499,
+            "type": "tFhjfVnbRL"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "iySuEJjomX",
+              "value": {
+                "source": "IAkBAdGlqC",
+                "value": "ZkrxIxmUAo"
+              },
+              "layout": {
+                "width": 50976581,
+                "height": 1641651307,
+                "gridSize": 930754110,
+                "type": "BNdLCtWCrf"
+              },
+              "align": {
+                "rowIndex": 1288068109,
+                "columnIndex": 2146190340,
+                "width": 1502607564,
+                "height": 1856679327
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "4b30efc3-8b74-4b59-be73-daa182b7b33d",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "MdtvtFcAWE",
+          "context": "partner",
+          "layout": {
+            "width": 1763504036,
+            "height": 1450815752,
+            "gridSize": 278501023,
+            "type": "knMvdQtupX"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "ehPoNgLmnV",
+              "value": {
+                "source": "dqFIUlotHc",
+                "value": "mGoCmqsBnY"
+              },
+              "layout": {
+                "width": 386829311,
+                "height": 417843275,
+                "gridSize": 329094207,
+                "type": "yYVXdpHnjE"
+              },
+              "align": {
+                "rowIndex": 1595604176,
+                "columnIndex": 210482914,
+                "width": 117558992,
+                "height": 33353494
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "4caec123-9494-497b-b8af-c7e057b82e26",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "PJzuPZYRAv",
+          "context": "endpoint",
+          "layout": {
+            "width": 1558552600,
+            "height": 1761144600,
+            "gridSize": 1765755075,
+            "type": "LFpPWOLhoY"
+          },
+          "antivirusList": [
+            "SentinelOne"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "QhdZEdXrKv",
+              "value": {
+                "source": "text",
+                "value": "TuzxEZzGxa"
+              },
+              "layout": {
+                "width": 257224270,
+                "height": 569597900,
+                "gridSize": 1066021081,
+                "type": "TtEEPxsuXd"
+              },
+              "align": {
+                "rowIndex": 1853478773,
+                "columnIndex": 788978882,
+                "width": 714119645,
+                "height": 1427799348
+              },
+              "supportedWidgets": null,
+              "nestedWidgets": [
+                {
+                  "type": "container",
+                  "id": "container0",
+                  "expandable": true,
+                  "name": "lZmYrrURKN",
+                  "value": null,
+                  "supportedWidgets": null,
+                  "nestedWidgets": null,
+                  "lockedProperties": null
+                }
+              ],
+              "lockedProperties": null
+            }
+          ]
+        }
+      },
+      {
+        "integratorId": "4d5f8647-bf82-46fd-b272-6a655810e294",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "zJdTRQBcnV",
+          "context": "partner",
+          "layout": {
+            "width": 1522703223,
+            "height": 1864969437,
+            "gridSize": 1370664382,
+            "type": "mmRqtKrWkv"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "bCQbMkVjoK",
+              "value": {
+                "source": "ZXVtkzIHwT",
+                "value": "DDdWjEosEG"
+              },
+              "layout": {
+                "width": 409871671,
+                "height": 1981501048,
+                "gridSize": 257741271,
+                "type": "GRfPcLvgKC"
+              },
+              "align": {
+                "rowIndex": 1579891809,
+                "columnIndex": 1406475759,
+                "width": 29545137,
+                "height": 1953650618
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "5103480a-d1d0-4b63-be4c-6843dddd247d",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "ejvQtbRcMr",
+          "context": "partner",
+          "layout": {
+            "width": 1185177099,
+            "height": 2125985832,
+            "gridSize": 1301808747,
+            "type": "bwSJETmJUy"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "OJfPvRBPZB",
+              "value": {
+                "source": "xFYzexhaYc",
+                "value": "QayrdQRbaO"
+              },
+              "layout": {
+                "width": 1091171966,
+                "height": 1028570395,
+                "gridSize": 1555247644,
+                "type": "QASVcsjIoj"
+              },
+              "align": {
+                "rowIndex": 211841964,
+                "columnIndex": 392870133,
+                "width": 808796974,
+                "height": 1882455480
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "5147fdc4-ffe3-41c5-a3fa-e24a3a76f7ed",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "ZvxcixXnBz",
+          "context": "partner",
+          "layout": {
+            "width": 2003957050,
+            "height": 1778668613,
+            "gridSize": 1902935185,
+            "type": "ZOyFawqOXC"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "zjNjldykBd",
+              "value": {
+                "source": "EfoWhoqVBa",
+                "value": "BKPeACTvqg"
+              },
+              "layout": {
+                "width": 596456992,
+                "height": 815519643,
+                "gridSize": 1839941473,
+                "type": "UDmvTkEvou"
+              },
+              "align": {
+                "rowIndex": 1072941940,
+                "columnIndex": 329478495,
+                "width": 483622057,
+                "height": 787664507
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "61b1be39-42dd-4659-9eda-6a50959eb36f",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "bZFXtKvHNs",
+          "context": "partner",
+          "layout": {
+            "width": 545063268,
+            "height": 921155559,
+            "gridSize": 802213766,
+            "type": "uRWPBGfzvX"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "yTeNdZEKod",
+              "value": {
+                "source": "kdZRfKOAOB",
+                "value": "NXtKJqDCyZ"
+              },
+              "layout": {
+                "width": 810851066,
+                "height": 1142562243,
+                "gridSize": 166642907,
+                "type": "duvKsuxlad"
+              },
+              "align": {
+                "rowIndex": 1427153077,
+                "columnIndex": 413460225,
+                "width": 652501726,
+                "height": 1614153826
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "6b766ff6-11f9-49e2-b104-16d031a4333d",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "aIaxcSpvwi",
+          "context": "partner",
+          "layout": {
+            "width": 1107851482,
+            "height": 853789601,
+            "gridSize": 56251601,
+            "type": "VQqbzedfdg"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "LgSkgHAZhU",
+              "value": {
+                "source": "COgioLauOb",
+                "value": "VYoGEzgwOj"
+              },
+              "layout": {
+                "width": 389767316,
+                "height": 443814183,
+                "gridSize": 994558837,
+                "type": "WFWrpaJFxP"
+              },
+              "align": {
+                "rowIndex": 1392029045,
+                "columnIndex": 939069581,
+                "width": 562974644,
+                "height": 226982261
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "6e19dcc5-e8e4-4414-9b4c-4b7f79c92b78",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "xplZPLQYpg",
+          "context": "endpoint",
+          "layout": {
+            "width": 911301100,
+            "height": 2051476200,
+            "gridSize": 970703472,
+            "type": "PZmPZGCWvr"
+          },
+          "antivirusList": [
+            "Microsoft Monitoring Agent"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "lKArBTUZuU",
+              "value": {
+                "source": "text",
+                "value": "EcchIimUrA"
+              },
+              "layout": {
+                "width": 1227912000,
+                "height": 1464008000,
+                "gridSize": 955297049,
+                "type": "NjfNEfCweK"
+              },
+              "align": {
+                "rowIndex": 892888913,
+                "columnIndex": 889764808,
+                "width": 653169853,
+                "height": 969534483
+              },
+              "supportedWidgets": null,
+              "nestedWidgets": [
+                {
+                  "type": "container",
+                  "id": "container0",
+                  "expandable": true,
+                  "name": "UZUzHzBlLZ",
+                  "value": null,
+                  "supportedWidgets": null,
+                  "nestedWidgets": null,
+                  "lockedProperties": null
+                }
+              ],
+              "lockedProperties": null
+            }
+          ]
+        }
+      },
+      {
+        "integratorId": "705ae49c-1a49-4c80-9535-766e14bfd596",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "SSOAKjtWJb",
+          "context": "partner",
+          "layout": {
+            "width": 917775858,
+            "height": 304347303,
+            "gridSize": 459419141,
+            "type": "JVLVkJKxJJ"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "mGnDYgvqPC",
+              "value": {
+                "source": "GuxKbVYSci",
+                "value": "ODSUXKSyLR"
+              },
+              "layout": {
+                "width": 1628145718,
+                "height": 230670295,
+                "gridSize": 480924049,
+                "type": "ynlEJIuqoG"
+              },
+              "align": {
+                "rowIndex": 1114803735,
+                "columnIndex": 888476098,
+                "width": 1591629489,
+                "height": 1503869615
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "709e41ca-d9b5-46ec-94bf-14048817c486",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "hcZHkCSGkb",
+          "context": "partner",
+          "layout": {
+            "width": 491815153,
+            "height": 1066608226,
+            "gridSize": 1171215473,
+            "type": "vGreHiwJeM"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "cjdMFsDUGn",
+              "value": {
+                "source": "YZLdWwJBxm",
+                "value": "BheRxyTwQx"
+              },
+              "layout": {
+                "width": 876831852,
+                "height": 1656260858,
+                "gridSize": 217158768,
+                "type": "HhXZThXSfF"
+              },
+              "align": {
+                "rowIndex": 586282319,
+                "columnIndex": 1267031486,
+                "width": 1708077455,
+                "height": 1581175894
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "73172676-005a-4fe1-b189-a5804b22467c",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "mItcigjSJb",
+          "context": "partner",
+          "layout": {
+            "width": 331052241,
+            "height": 2008817604,
+            "gridSize": 20074426,
+            "type": "VmSimpqEPc"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "dqSgMpcMNx",
+              "value": {
+                "source": "lRgkOFpUGa",
+                "value": "GxPklplDHB"
+              },
+              "layout": {
+                "width": 1891987973,
+                "height": 1309513069,
+                "gridSize": 780797641,
+                "type": "LMOdrcjoWt"
+              },
+              "align": {
+                "rowIndex": 1555160580,
+                "columnIndex": 73730526,
+                "width": 271356479,
+                "height": 2005264155
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "7587a049-b53e-4c32-9e37-d49557587ced",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "nLEYYEdqrG",
+          "context": "partner",
+          "layout": {
+            "width": 1730455792,
+            "height": 862560512,
+            "gridSize": 1753929204,
+            "type": "ReNbEBMojR"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "GgmmLveOrQ",
+              "value": {
+                "source": "KqtIUYguhq",
+                "value": "SSzOFAedSI"
+              },
+              "layout": {
+                "width": 1314875457,
+                "height": 98721806,
+                "gridSize": 533914709,
+                "type": "CGXxJMMmbk"
+              },
+              "align": {
+                "rowIndex": 1868000211,
+                "columnIndex": 1392584949,
+                "width": 1443523195,
+                "height": 1668762257
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "80e4f9d7-6af8-4a83-a7f4-e20bcecd06c3",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "voHFOWufdh",
+          "context": "partner",
+          "layout": {
+            "width": 1375298581,
+            "height": 536135146,
+            "gridSize": 541380141,
+            "type": "WPGaJQuBsT"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "jcyauLciTN",
+              "value": {
+                "source": "crzuZuUBRW",
+                "value": "uKIQyCZrCc"
+              },
+              "layout": {
+                "width": 2018442240,
+                "height": 1240638330,
+                "gridSize": 85138837,
+                "type": "WSWgEXPlhS"
+              },
+              "align": {
+                "rowIndex": 226833524,
+                "columnIndex": 237364322,
+                "width": 797012980,
+                "height": 2053349614
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "8d633f3f-3148-47ed-bb49-5f80febd57d8",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "KMpQKXtSTl",
+          "context": "partner",
+          "layout": {
+            "width": 1203824776,
+            "height": 74227887,
+            "gridSize": 282292801,
+            "type": "wgSmtRScGs"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "BMuoMPerRz",
+              "value": {
+                "source": "PueZhSgGOr",
+                "value": "cQxZPVXWmg"
+              },
+              "layout": {
+                "width": 1404976137,
+                "height": 1663020036,
+                "gridSize": 1375538080,
+                "type": "WQCcvjFXAM"
+              },
+              "align": {
+                "rowIndex": 1039517407,
+                "columnIndex": 1474665483,
+                "width": 859464223,
+                "height": 1550134150
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "8ee1759a-d5e2-4e87-9c91-c2f27d327628",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "SnwcPXtTCS",
+          "context": "partner",
+          "layout": {
+            "width": 1937947989,
+            "height": 1825919383,
+            "gridSize": 1027555083,
+            "type": "huVnOOKkjZ"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "CXIvhTIrXn",
+              "value": {
+                "source": "HqmjOtxNJq",
+                "value": "fxxQFKiQcT"
+              },
+              "layout": {
+                "width": 150508606,
+                "height": 236774923,
+                "gridSize": 844002901,
+                "type": "NAbCDdzRiv"
+              },
+              "align": {
+                "rowIndex": 737198718,
+                "columnIndex": 1606000143,
+                "width": 1059771305,
+                "height": 324427173
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "a0064034-0942-45d5-9202-54808ae2965b",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "PxzGomymuv",
+          "context": "partner",
+          "layout": {
+            "width": 456983000,
+            "height": 866386940,
+            "gridSize": 1913172627,
+            "type": "muyxGCpwVn"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "fjwCGTFsdo",
+              "value": {
+                "source": "xKBYsKkErb",
+                "value": "wrpKdWzylA"
+              },
+              "layout": {
+                "width": 1569304200,
+                "height": 1106447100,
+                "gridSize": 1444363296,
+                "type": "YGroBbkjqc"
+              },
+              "align": {
+                "rowIndex": 783448982,
+                "columnIndex": 1382194120,
+                "width": 1114032175,
+                "height": 722786657
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "a963b6e2-ee09-40a8-af36-33400fd9c734",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "RtHETJxszr",
+          "context": "partner",
+          "layout": {
+            "width": 1194097721,
+            "height": 587910023,
+            "gridSize": 1933020824,
+            "type": "OlWDaAbcXQ"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "AxotXUsLok",
+              "value": {
+                "source": "DygyFQyNWP",
+                "value": "kLaLlZHEPY"
+              },
+              "layout": {
+                "width": 1964388646,
+                "height": 1998642039,
+                "gridSize": 2033607634,
+                "type": "HXIjzsgFQT"
+              },
+              "align": {
+                "rowIndex": 656686395,
+                "columnIndex": 1154209587,
+                "width": 1082194296,
+                "height": 1955913275
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "ac3f8288-db26-4826-bd8d-be4c7a11d63c",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "lhRhJvjlKD",
+          "context": "partner",
+          "layout": {
+            "width": 536257255,
+            "height": 429264234,
+            "gridSize": 582090703,
+            "type": "uyWbaDxDUf"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "WmiIcFVdBb",
+              "value": {
+                "source": "fvAizhBXTy",
+                "value": "lYVvLVjtUL"
+              },
+              "layout": {
+                "width": 151334673,
+                "height": 1038800970,
+                "gridSize": 1138600045,
+                "type": "vfUtGdDYRR"
+              },
+              "align": {
+                "rowIndex": 1787759244,
+                "columnIndex": 1589993688,
+                "width": 2031066937,
+                "height": 793399575
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "b438dad6-b4e1-412c-8483-cb48821e4982",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "XuzoMHpFkP",
+          "context": "partner",
+          "layout": {
+            "width": 334124785,
+            "height": 539320691,
+            "gridSize": 80845231,
+            "type": "zhEoUsGIFU"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "voSidUaiVr",
+              "value": {
+                "source": "zpEDqvdmQX",
+                "value": "HnQEsixPDe"
+              },
+              "layout": {
+                "width": 732893352,
+                "height": 1591327448,
+                "gridSize": 545430237,
+                "type": "OwuvXUECuX"
+              },
+              "align": {
+                "rowIndex": 2093682624,
+                "columnIndex": 581436611,
+                "width": 1601072282,
+                "height": 1992752023
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "b74459c4-0d47-476c-97b0-e5ba97a0df6b",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "dvvYdFeDfQ",
+          "context": "partner",
+          "layout": {
+            "width": 826676540,
+            "height": 1078747500,
+            "gridSize": 868363362,
+            "type": "UUPWKlcRvd"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "QAAEiRbUpu",
+              "value": {
+                "source": "trNuVJNSiJ",
+                "value": "dflBvdvzDw"
+              },
+              "layout": {
+                "width": 932837250,
+                "height": 900342460,
+                "gridSize": 1853332536,
+                "type": "DyFRwqqKmp"
+              },
+              "align": {
+                "rowIndex": 1140853943,
+                "columnIndex": 95443859,
+                "width": 248160132,
+                "height": 2060817120
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "baac7055-358d-4b6b-9e8b-3725d8d0a839",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "OEDRSuHfrX",
+          "context": "partner",
+          "layout": {
+            "width": 1039098078,
+            "height": 336936468,
+            "gridSize": 627236045,
+            "type": "eNOBAYFimj"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "jQRdRbbDgo",
+              "value": {
+                "source": "gvZJjEgwXm",
+                "value": "ZRbrhBlIKh"
+              },
+              "layout": {
+                "width": 622261754,
+                "height": 1303221056,
+                "gridSize": 840826440,
+                "type": "gevLGDhzVT"
+              },
+              "align": {
+                "rowIndex": 990874827,
+                "columnIndex": 1476551240,
+                "width": 925870010,
+                "height": 1759120992
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "bac18a9b-7883-4c8d-b236-d6428964f3ac",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "LsxITPjImy",
+          "context": "endpoint",
+          "layout": {
+            "width": 439990340,
+            "height": 787871360,
+            "gridSize": 1871118374,
+            "type": "aVYuPPMhJx"
+          },
+          "antivirusList": [
+            "Microsoft Monitoring Agent"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "QROcpylaVD",
+              "value": {
+                "source": "text",
+                "value": "lEzQPSYRhP"
+              },
+              "layout": {
+                "width": 322382620,
+                "height": 1649370400,
+                "gridSize": 367269990,
+                "type": "aupMjKylFa"
+              },
+              "align": {
+                "rowIndex": 1761897088,
+                "columnIndex": 203881270,
+                "width": 1629873071,
+                "height": 34679062
+              },
+              "supportedWidgets": null,
+              "nestedWidgets": [
+                {
+                  "type": "container",
+                  "id": "container0",
+                  "expandable": false,
+                  "name": "WSPCFVcquX",
+                  "value": null,
+                  "supportedWidgets": null,
+                  "nestedWidgets": null,
+                  "lockedProperties": null
+                }
+              ],
+              "lockedProperties": null
+            }
+          ]
+        }
+      },
+      {
+        "integratorId": "c2b0d98a-baaa-4822-8d7a-a8b8a667bdf0",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "htcaDseJfq",
+          "context": "partner",
+          "layout": {
+            "width": 1384296370,
+            "height": 983048213,
+            "gridSize": 1879967557,
+            "type": "NLNSyTvnFT"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "GbkBSDpDQc",
+              "value": {
+                "source": "wpyBZqAInX",
+                "value": "BFsZEewQuB"
+              },
+              "layout": {
+                "width": 1058793003,
+                "height": 1114755722,
+                "gridSize": 1598486263,
+                "type": "YpyTvHcyLv"
+              },
+              "align": {
+                "rowIndex": 720145125,
+                "columnIndex": 1433468057,
+                "width": 1775163064,
+                "height": 1230465257
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "c41f2dda-0c22-4354-a0ea-d1518e01991a",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "WcwfUcKjhY",
+          "context": "partner",
+          "layout": {
+            "width": 187465153,
+            "height": 993166095,
+            "gridSize": 1087003548,
+            "type": "ALFJHiUtEE"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "OMxlDPoCVv",
+              "value": {
+                "source": "ePVbmHjKcj",
+                "value": "WECdxWjVja"
+              },
+              "layout": {
+                "width": 425061986,
+                "height": 756745322,
+                "gridSize": 1953765914,
+                "type": "cYvBBkyLkl"
+              },
+              "align": {
+                "rowIndex": 63715731,
+                "columnIndex": 1201161571,
+                "width": 825646853,
+                "height": 567774490
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "ca930a29-93fd-4147-a1ba-34a6c1678eb7",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "GPdsviJkdT",
+          "context": "partner",
+          "layout": {
+            "width": 1359016600,
+            "height": 1356103864,
+            "gridSize": 1168227192,
+            "type": "vdiyIDVSjB"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "uXCIxkqUnd",
+              "value": {
+                "source": "GXcVpzKBPQ",
+                "value": "PdLuBaMkCR"
+              },
+              "layout": {
+                "width": 452264321,
+                "height": 755628779,
+                "gridSize": 1343924003,
+                "type": "ZPBWeTsUVa"
+              },
+              "align": {
+                "rowIndex": 840200740,
+                "columnIndex": 2132692421,
+                "width": 962809583,
+                "height": 1003142740
+              },
+              "action": {
+                "taskId": "VDjpFNQfHi",
+                "taskName": "MhYwtWEKPL",
+                "description": ""
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "cabee225-1b21-4fc7-b47c-77ebc2fca824",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "VrgKLfgpiN",
+          "context": "partner",
+          "layout": {
+            "width": 383762698,
+            "height": 1932595022,
+            "gridSize": 593762465,
+            "type": "LdgpUYfuzn"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "MHbcSlLaCW",
+              "value": {
+                "source": "NfdPCEytzw",
+                "value": "rnUEPGkzZo"
+              },
+              "layout": {
+                "width": 1340435621,
+                "height": 303361999,
+                "gridSize": 1355121862,
+                "type": "oRcYCyCkuD"
+              },
+              "align": {
+                "rowIndex": 698304769,
+                "columnIndex": 1025109339,
+                "width": 2001141956,
+                "height": 1672611110
+              },
+              "action": {
+                "taskId": "GcwoWdDaev",
+                "taskName": "VYLiCKJQQo",
+                "description": ""
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "ccddd88e-9387-4334-b56b-3c13722006e8",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "RECIhXPtLR",
+          "context": "partner",
+          "layout": {
+            "width": 1317528082,
+            "height": 1669672094,
+            "gridSize": 634992196,
+            "type": "HCzhRfVXVV"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "SwNkRfVuZV",
+              "value": {
+                "source": "GArDwZtRBF",
+                "value": "ebvjqDZyXO"
+              },
+              "layout": {
+                "width": 728680368,
+                "height": 1184500094,
+                "gridSize": 601959820,
+                "type": "jyJGrmwAXM"
+              },
+              "align": {
+                "rowIndex": 307591451,
+                "columnIndex": 852148778,
+                "width": 933961328,
+                "height": 1253952819
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "df16f6ee-b9ba-4bd3-9a67-915b5c25efe6",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "AGvgdLwkVW",
+          "context": "partner",
+          "layout": {
+            "width": 875583723,
+            "height": 1798897796,
+            "gridSize": 1429624257,
+            "type": "eJekIXtKdr"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "FFIqgIKXyf",
+              "value": {
+                "source": "CbqOIIQmDF",
+                "value": "EbdBeXlibn"
+              },
+              "layout": {
+                "width": 2059523390,
+                "height": 2101652990,
+                "gridSize": 37626461,
+                "type": "wZVGlRpaNa"
+              },
+              "align": {
+                "rowIndex": 1240806718,
+                "columnIndex": 820492434,
+                "width": 1399378011,
+                "height": 442600657
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "ea57379b-200b-4532-bdeb-a288924b5f2a",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "sKecCUouqf",
+          "context": "partner",
+          "layout": {
+            "width": 1630575802,
+            "height": 603352624,
+            "gridSize": 574201416,
+            "type": "YWTLulSKIf"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": false,
+              "name": "CwalKjbKfI",
+              "value": {
+                "source": "IYobjwhSZt",
+                "value": "WNrdzxzfTU"
+              },
+              "layout": {
+                "width": 2109791190,
+                "height": 347120428,
+                "gridSize": 801171921,
+                "type": "aURZBulkjU"
+              },
+              "align": {
+                "rowIndex": 1599406092,
+                "columnIndex": 1319774658,
+                "width": 1914469332,
+                "height": 1138995890
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "f07fd7a5-8b78-4cec-b53b-013ac4480134",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "uBHHlUyDSj",
+          "context": "partner",
+          "layout": {
+            "width": 934799800,
+            "height": 970865317,
+            "gridSize": 1341824899,
+            "type": "FIxvXCLgff"
+          },
+          "supportedWidgets": [
+            "table_column"
+          ],
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection-table-column",
+              "expandable": true,
+              "name": "jBijBqayIa",
+              "value": {
+                "source": "rkZpVKAsYF",
+                "value": "otamBOwHZC"
+              },
+              "layout": {
+                "width": 1954283908,
+                "height": 1292325227,
+                "gridSize": 451740090,
+                "type": "plUXpPZueP"
+              },
+              "align": {
+                "rowIndex": 756967485,
+                "columnIndex": 1667387746,
+                "width": 674047367,
+                "height": 1059118494
+              },
+              "supportedWidgets": [
+                "button",
+                "container",
+                "static-text",
+                "dropdown"
+              ],
+              "nestedWidgets": [],
+              "lockedProperties": [
+                "id",
+                "supportedWidgets",
+                "type"
+              ]
+            }
+          ],
+          "lockedProperties": [
+            "supportedWidgets",
+            "templateId"
+          ]
+        }
+      },
+      {
+        "integratorId": "f8b11ab9-d5da-11ec-9855-0242ac110005",
+        "configuration": {
+          "templateId": "cfdb31a3-c100-4eb0-acba-519baae9e3ad",
+          "templateType": "grid",
+          "context": "endpoint",
+          "layout": {
+            "width": 420,
+            "height": 340,
+            "gridSize": 20,
+            "type": "grid"
+          },
+          "widgets": [
+            {
+              "type": "table_column",
+              "id": "endpoint-protection_table-column",
+              "expandable": false,
+              "name": "",
+              "value": {
+                "source": "text",
+                "value": "test"
+              },
+              "layout": {
+                "width": 20,
+                "height": 1,
+                "gridSize": 20,
+                "type": "grid"
+              },
+              "align": {
+                "rowIndex": 1,
+                "columnIndex": 1,
+                "width": 20,
+                "height": 1
+              },
+              "supportedWidgets": null,
+              "nestedWidgets": [
+                {
+                  "type": "container",
+                  "id": "table-cell",
+                  "expandable": false,
+                  "name": "",
+                  "value": null,
+                  "layout": {
+                    "width": 0,
+                    "height": 0,
+                    "gridSize": 0,
+                    "type": ""
+                  },
+                  "align": {
+                    "rowIndex": 1,
+                    "columnIndex": 1,
+                    "width": 20,
+                    "height": 1
+                  },
+                  "supportedWidgets": null,
+                  "nestedWidgets": [
+                    {
+                      "type": "dropdown",
+                      "id": "dropdown",
+                      "expandable": false,
+                      "name": "",
+                      "value": {
+                        "source": "text",
+                        "value": "false"
+                      },
+                      "layout": {
+                        "width": 1400,
+                        "height": 700,
+                        "gridSize": 20,
+                        "type": "grid"
+                      },
+                      "align": {
+                        "rowIndex": 1,
+                        "columnIndex": 1,
+                        "width": 20,
+                        "height": 1
+                      },
+                      "supportedWidgets": null,
+                      "nestedWidgets": [
+                        {
+                          "type": "container",
+                          "id": "dropdown-header",
+                          "expandable": false,
+                          "name": "",
+                          "value": null,
+                          "layout": {
+                            "width": 1400,
+                            "height": 700,
+                            "gridSize": 20,
+                            "type": "grid"
+                          },
+                          "align": {
+                            "rowIndex": 1,
+                            "columnIndex": 1,
+                            "width": 20,
+                            "height": 1
+                          },
+                          "supportedWidgets": null,
+                          "nestedWidgets": [
+                            {
+                              "type": "static_text",
+                              "id": "static-text_0",
+                              "expandable": false,
+                              "name": "",
+                              "value": {
+                                "source": "text",
+                                "value": "test"
+                              },
+                              "layout": {
+                                "width": 0,
+                                "height": 0,
+                                "gridSize": 0,
+                                "type": ""
+                              },
+                              "align": {
+                                "rowIndex": 1,
+                                "columnIndex": 1,
+                                "width": 20,
+                                "height": 1
+                              },
+                              "label": {
+                                "value": "",
+                                "position": "left"
+                              },
+                              "supportedWidgets": null,
+                              "nestedWidgets": [],
+                              "lockedProperties": null
+                            }
+                          ],
+                          "lockedProperties": null
+                        },
+                        {
+                          "type": "container",
+                          "id": "dropdown-content",
+                          "expandable": false,
+                          "name": "",
+                          "value": null,
+                          "layout": {
+                            "width": 1400,
+                            "height": 700,
+                            "gridSize": 20,
+                            "type": "grid"
+                          },
+                          "align": {
+                            "rowIndex": 1,
+                            "columnIndex": 1,
+                            "width": 20,
+                            "height": 1
+                          },
+                          "supportedWidgets": null,
+                          "nestedWidgets": [
+                            {
+                              "type": "tabs",
+                              "id": "tabs",
+                              "expandable": false,
+                              "name": "",
+                              "value": {
+                                "source": "text",
+                                "value": "tab1"
+                              },
+                              "layout": {
+                                "width": 1400,
+                                "height": 700,
+                                "gridSize": 20,
+                                "type": "grid"
+                              },
+                              "align": {
+                                "rowIndex": 2,
+                                "columnIndex": 1,
+                                "width": 20,
+                                "height": 1
+                              },
+                              "supportedWidgets": null,
+                              "nestedWidgets": [
+                                {
+                                  "type": "container",
+                                  "id": "tab0",
+                                  "expandable": false,
+                                  "name": "",
+                                  "value": null,
+                                  "layout": {
+                                    "width": 1400,
+                                    "height": 700,
+                                    "gridSize": 20,
+                                    "type": "grid"
+                                  },
+                                  "align": {
+                                    "rowIndex": 1,
+                                    "columnIndex": 1,
+                                    "width": 20,
+                                    "height": 1
+                                  },
+                                  "label": {
+                                    "value": "Tab1",
+                                    "position": "center"
+                                  },
+                                  "supportedWidgets": null,
+                                  "nestedWidgets": [
+                                    {
+                                      "type": "static_text",
+                                      "id": "static-text_0",
+                                      "expandable": false,
+                                      "name": "",
+                                      "value": {
+                                        "source": "custom_field",
+                                        "value": "c7e583f8-481d-47de-bb85-cdc2bd5192da"
+                                      },
+                                      "layout": {
+                                        "width": 0,
+                                        "height": 0,
+                                        "gridSize": 0,
+                                        "type": ""
+                                      },
+                                      "align": {
+                                        "rowIndex": 1,
+                                        "columnIndex": 1,
+                                        "width": 20,
+                                        "height": 1
+                                      },
+                                      "label": {
+                                        "value": "label",
+                                        "position": "top"
+                                      },
+                                      "supportedWidgets": null,
+                                      "nestedWidgets": [],
+                                      "lockedProperties": null
+                                    }
+                                  ],
+                                  "lockedProperties": null
+                                }
+                              ],
+                              "lockedProperties": null
+                            }
+                          ],
+                          "lockedProperties": null
+                        }
+                      ],
+                      "lockedProperties": null
+                    }
+                  ],
+                  "lockedProperties": null
+                }
+              ],
+              "lockedProperties": null
+            }
+          ]
+        }
+      }
+    ]

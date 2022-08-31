@@ -1,0 +1,1181 @@
+request:
+  method: GET
+  path: /webroot/v1/partners/50016338/sites/*/endpoints
+control:
+  delay: "270ms"
+response:
+  statusCode: 200
+  body: >
+    {
+      "webrootsStatus": [
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "002a4838-2b72-4236-96d5-d8245aa574f3",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "091bc2ec-0609-436a-b09b-547657c135be",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "0aa20a1f-8301-423a-b9ad-7a6afb152fed",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "0ae05c28-b1b8-4f80-bde4-040cad0e2d70",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "0d8728b4-7c38-455b-8491-3cf9f8078748",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "109f7565-dc82-4d71-8ca9-939c40edfed4",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "10df1875-72c0-4bf2-bdfa-00bbc3f81012",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "10e014e2-638b-41ee-911b-cd4d51fdb706",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1239edea-6708-4eed-b6db-d302ebd83aed",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "14cc0d08-4e04-4de7-93a7-99ed0a5dfcbe",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "158b3a53-9b41-43ed-9a24-043ddd5ee479",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "15abb55c-de67-4167-a799-e858d8075077",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "16651053-ec5f-467e-a36b-9bc61610bc84",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "18f02f87-c0e4-4aad-af82-652c583e72a7",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1c91570d-afae-425d-ad8f-d7f4cdf47b8d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1ccfa279-c212-48d8-8c36-01c9fe0c215b",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1d269a4c-e2ea-4a97-bbf6-fe1b1ec708e3",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1d294cce-6ea6-40fa-8510-4640c2a28f13",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1eef7387-19de-468e-aca9-93844454c9d9",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "1fce7133-2cd9-4d91-8ef6-9ebcc344744d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "21b2a933-97ec-4df5-be51-6673af9f1edf",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "22096577-6c86-46d4-bf30-ea8f9c2b9811",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "23aac7c2-ea40-403b-8893-516015d42899",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "24ac263d-fc9f-4239-bb7a-0707d4fe96f1",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "27b5bd83-b0ee-42fb-ade9-527482d2fcf7",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "291d0435-6b05-44d7-abe3-cc40e1ff62bb",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "29c8995f-c883-40bd-800f-0ab6392ca301",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "2ac088d9-4225-483f-91b2-9f9aa8432fab",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "2c4c4d84-441d-4571-91de-0ab44ea1d0da",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "2e4aa8fb-7504-4e6b-9f0c-80974f1dc0dd",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "2e77f16e-83c2-46c8-8246-ef4270da77e7",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "33a8c8da-33a3-4c68-8acf-041e752a5c9c",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "33b22320-19b8-41e6-8868-86ffcabff844",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "33c85577-edf2-46f5-bf81-14cca7bac12e",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "3545fad2-2402-4ea1-8654-58f4d4e324ab",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "37546831-ef90-457c-8964-fc95f26cb0db",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "37d19202-1410-45b7-bc64-5e1ef8b05b9b",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "3aab2625-f8f5-4bb6-ba33-18faadb16b6b",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "3bb212c4-2c85-46e2-8d36-48bc37926874",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "401c2eef-e303-4272-917a-55f92fa13466",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "4210da0c-a14e-491c-b22a-8c9f4479e61f",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "42f82116-cb8f-4bb8-971d-df8109404c45",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "477a3f90-490a-4608-9305-4640fb372524",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "4970aaab-73df-4d7d-9c45-a1e4da3ba4ae",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "4a9caa07-d45a-4c14-aa36-8c1c26e7a029",
+          "syncStatus": "SYNCED"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "4b81f3d3-3196-4f5e-a897-3876ad7d39f8",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "4fd28c33-115f-40c0-97a6-9abaeb2bda40",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "4fe147d5-ccf2-4f3e-8bcc-66147b9742e7",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "513cf40f-0081-41ff-8c6e-3d9a53535eb2",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "531843bf-a6c7-4dc5-b4a2-985a716e6e73",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "57cfb153-4177-43c8-82fc-4119e20ee7fb",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "5cb1f390-a935-4156-abd3-843367dcf787",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "5e7c3c43-e91e-43cf-aeac-f8d5c8203f63",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "",
+          "siteId": "50110859",
+          "endpointId": "5ef0230e-a490-411f-9011-1a3f349538f7",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "613c6f72-ac72-41f5-8683-56c16bd0244e",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "62098455-5a70-433d-b2c9-bb8da0c61e23",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "66c93b8d-4b0c-4e69-8739-c9fbc9a02dd9",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "671368cc-a1ba-4535-bd65-392b12e86ff1",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "673fd1b6-4b6c-4323-8ffd-6b5823f534c4",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "67a593ab-177b-4a6a-817d-77fbc0823ae1",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "69ed57e9-5502-43b1-a47a-62574f99bb8a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "69ef7172-b9a0-4ea4-bd89-f2a149f3b5f6",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "70a3e5f6-297d-47ad-b7b5-9a85178f7793",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "72456a53-f644-44e7-88ae-c095140a6530",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "73f0e21e-fb66-4487-a87f-2925f266fa10",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "7422f093-a31a-481b-afb1-e5c4b4bdf7fd",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "76223623-f21c-442b-a5d0-f201ebb0717d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "76fe058b-f569-426b-97ef-3051fe593723",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "7ac59e1b-11eb-4862-9480-a39c5356c747",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "7ed525ca-6d7e-4c48-8342-d167ea8c4813",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "8037b98e-02dd-46e5-b367-7561b05f6c9d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "851c25f5-8f5b-4444-b87d-6a5b1096fa67",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "86a20212-05b9-48a9-8ada-65a7eaf95f63",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "8aa347b6-cc5b-4391-b59e-d038e7e2c2e2",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "8cd5721b-3c48-4e36-b6b4-fea204c063cb",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "8e1c6642-d258-4a7c-a910-68a5f9bc9a24",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "8eef5f49-f4ee-4a55-94d6-7bcba0b004ca",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "",
+          "siteId": "50110859",
+          "endpointId": "8f455a30-29b1-42e4-8023-e2fb7e22eccf",
+          "syncStatus": "SYNCED"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "906feddc-da72-4f45-9b17-1f136cfe8f88",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9264af7e-d9e7-40cc-b19b-186ec2c3dd08",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9273c7cb-752c-4478-8841-8989ce22d463",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9450faa7-c391-48b8-8031-817b6b1ba387",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "94872cf5-f6b4-4af6-a15e-32bdf897eb45",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "95b1cde2-babf-4d58-a86d-7cc34f53a27b",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "970e29d2-b88d-4e1f-b608-c7df8edcdf49",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9b27827b-1719-4688-ba10-a143e095100a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9dbcc649-ddda-4a1d-93fa-eb99178504f8",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9ddc0ff3-5f80-471f-9e27-6677fee958bc",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "9ef12472-d2dc-4e2b-8f95-4c724a82986a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "a29ed3df-d39c-435c-bc99-4d86bea42f95",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "a6796fa1-838f-4b00-b289-ba30bb4273eb",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "a8739399-c9b7-4edd-857e-18713cf293e3",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "aa512cd5-0c63-4cf9-acbb-0ebbd57a7f9d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "aa8a416e-9b02-4705-be49-5253dd745833",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "aae9a8b2-6e2c-4c12-908b-ba3cbf03f8ad",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "aaf8cd35-2aac-4ae2-a0cc-f25d7942768b",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ac0f056c-cd00-49f1-8dbc-dc8a1dae9671",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ad4975eb-b744-4894-8861-762119bdfc6a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "aee97bde-3b71-4d7b-84fa-f1b6013f500e",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "b1ea49b4-198f-45d7-9ce5-4b57e1632afa",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "b2599a7b-5fb9-4c06-bdc0-b3e8a161d041",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "bb80af7f-bd55-499d-9de8-53f43e620357",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "bc28f8ce-02b7-4a76-9e41-5fface76e95d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "bc98322a-da72-44d8-83bd-b4a6b68e0fab",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "be6f2c89-f556-4ac4-ba46-7860588ad502",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "c1a0ca66-2b89-453f-a282-5f5e24a531c6",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "c27202ff-8ad0-4a7f-93d9-67de64ab40b4",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "c40233e0-8ba2-4575-ac7c-f565d8acb8fb",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "c63f32b3-3015-4d25-ac96-b28694e76aa0",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "",
+          "siteId": "50110859",
+          "endpointId": "ccaa2f69-1f99-491e-a726-8d834770bf37",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ce57e2ee-0d2e-4204-9559-f6bd09e42391",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "d4f141fe-b454-40de-b671-61ab16476b18",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "d892553a-86b5-4b5f-94a3-c4897531328a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "d9b64f2d-f9c0-4cc1-a843-e180a2fb7a3a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "dae1bd7f-d49a-419e-bda4-9dbb493c59bc",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "e4522adf-2ecc-43c1-b1e3-e5c3760eb6b6",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "e54460d9-62a8-4b23-87e0-1b2c671682d6",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "e8fbcc5c-1e27-43b4-af66-fb8720bbecbc",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "e9aca659-006b-4da2-b8d6-4ac48e0f4cc8",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ebfa61ea-d909-4ead-aae6-336ceb8f33ae",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ec21d230-1d9a-42fa-8a2a-70b27c67d23a",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ec2ff7f8-7eab-481b-9971-f7015b748eef",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ed1bb38a-fe3f-4972-a3b5-54367e94dc22",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ed3aa43c-6ef1-4df9-b91f-9c1e1fad2d51",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "ee860532-5519-48a1-80ff-2b728fa7131f",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "eeb4dff2-428a-49db-9bfe-1232f6c6e783",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "f321d107-bdf5-498e-af52-ddc87bb447cd",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "f4d25b83-002a-4cd0-b386-ff320933bb55",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "f99c0ac3-46da-470e-bd25-74d781392910",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "fa435f11-ea6c-4b03-92d4-c11eff2ed633",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "faa4fb04-b24e-4a97-8fae-18b1ad6e48f5",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "face0a68-397e-404c-9882-48e01a15d53e",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "fb935ef6-b633-4ba1-83f7-70f92e678cb3",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110859",
+          "siteId": "50110859",
+          "endpointId": "fc174dd3-f5d7-4c73-be7e-a00c38fc8dd1",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "05ffa109-243d-4316-9ce6-b3b837ba4aef",
+          "syncStatus": "AGENT INSTALLED NO SKY RECEIVED"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "09609532-29cd-4357-bdb8-ed4b3d2a306f",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "0bd01a14-0b73-4df3-a7f9-d50a6ff25d78",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "180039f4-45ae-44b8-81bc-25267cf171bf",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "24a8b37b-a216-4dc9-99c6-b90820a2d31b",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "273f7597-cf9b-44c0-8369-0d6e1daf2e5d",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "3a0b62f9-b6c4-4879-8d9d-3b12129b16f4",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "3e31de48-60e1-4a1e-a7e2-04065f7eeb68",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "4085fd8c-934d-40cd-b2a3-583b9b2ca134",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "4e779215-d5a1-42ea-b791-41759103ce90",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "4f3a6dcf-f8ed-47c9-b4b8-573aa9141e10",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "50e71d1b-17e7-4ae4-abd6-9269505857da",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "",
+          "siteId": "50110883",
+          "endpointId": "60d5e54e-3272-430c-bcf8-12f3126488dd",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "68da821c-f27d-4537-bcb5-eb5189bbe95c",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "69500ccb-6a69-41d8-8f65-4ab997ea96c6",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "7c8a9307-c58e-45f8-9003-49ff23a921c3",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "96d82ed9-8288-469b-95f4-0b7e3059d2cf",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "9e2c7abd-7bdd-4843-b1d3-73e2b45568d9",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "a0d52e14-71d5-4928-b7d3-3e38cd178e78",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "aa62a193-b8aa-44aa-bfac-bc605b517a5c",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "ab955ac9-a7a9-459a-a4d7-afbc22053e4c",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "ad0e7bf4-9e91-4293-86cb-13228e43588c",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "b54646be-27af-43ee-bc67-a458faaaa341",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "bc0dacf1-d794-4687-9bda-4fec23cbb3ac",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "cc551b22-db07-49ce-80e7-ace0ab9662de",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "cd5dc4e9-a1ba-43cc-9c91-c3a6f6b5e025",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "ceb769ab-6e7a-45a9-b319-787b1243e005",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "d165217d-44ae-49ca-83ac-f3771fbc1d99",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "d75f2d55-66f7-4cb9-b95c-b29d1841c6a4",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "e00acde5-2edf-424a-9e83-6f8937ea0c48",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "",
+          "siteId": "50110883",
+          "endpointId": "e9f707f9-0f42-4572-8276-3f5fca1b16a9",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "ed2c75b0-c306-442f-92ef-648d9567dad2",
+          "syncStatus": "NOT AVAILABLE"
+        },
+        {
+          "partnerId": "50016338",
+          "clientId": "50110883",
+          "siteId": "50110883",
+          "endpointId": "fa8c34f1-d450-46db-9c95-13ab4bc777bf",
+          "syncStatus": "NOT AVAILABLE"
+        }
+      ]
+    }

@@ -1,0 +1,54 @@
+request:
+  method: GET
+  path: /rmmitsapi/v1/partners/50016338/resources?Operation=check&Type=lowdiskspace
+control:
+  delay: "25ms"
+response:
+  statusCode: 200
+  body: >
+    {
+      "outData": [
+        {
+          "endpointId": "05ffa109-243d-4316-9ce6-b3b837ba4aef",
+          "siteId": "50110883",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "4a9caa07-d45a-4c14-aa36-8c1c26e7a029",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "8f455a30-29b1-42e4-8023-e2fb7e22eccf",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "9affed70-7750-41b3-9d40-3a748710450c",
+          "siteId": "50122123",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "bbfa2bd1-1621-4345-8b9b-cdb1946d99da",
+          "siteId": "50110883",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "ccaa2f69-1f99-491e-a726-8d834770bf37",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "ecf6aed7-2a00-480b-ae56-81414597e8e6",
+          "siteId": "50122438",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        }
+      ]
+    }

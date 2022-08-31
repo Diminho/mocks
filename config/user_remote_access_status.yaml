@@ -1,0 +1,9 @@
+request:
+  method: GET
+  path: /rmmitsapi/v1/partners/50016338/users/50168735/onboard?Operation=userlmienable
+control:
+  delay: "16ms"
+response:
+  statusCode: 200
+  body: >
+     {"status":200,"outdata":[{"Userlmienablestatus":false}]}

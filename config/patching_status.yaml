@@ -1,0 +1,19 @@
+request:
+  method: GET
+  path: /patching/v1/partners/50016338/endpoints/status
+control:
+  delay: "8ms"
+response:
+  statusCode: 200
+  body: >
+    {
+      "statuses": [
+        {
+          "endpointID": "60d5e54e-3272-430c-bcf8-12f3126488dd",
+          "status": "Up-to-date",
+          "state": "Up-to-date",
+          "lastUpToDate": "2019-09-19T09:45:57.946Z"
+        }
+      ],
+      "totalCount": 1
+    }

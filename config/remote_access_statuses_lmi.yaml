@@ -1,0 +1,102 @@
+request:
+  method: GET
+  path: /remoteaccess/v1/partner/50016338/installationstatusreport
+control:
+  delay: "23ms"
+response:
+  statusCode: 200
+  body: >
+    {
+      "outData": [
+        {
+          "endpointId": "05ffa109-243d-4316-9ce6-b3b837ba4aef",
+          "siteId": "50110883",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "0cfdb697-4d72-4e30-b906-446df5355f84",
+          "siteId": "50110859",
+          "installationStatus": "",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "35dc2686-eb97-483a-af6f-92bf9c96e90f",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "4a9caa07-d45a-4c14-aa36-8c1c26e7a029",
+          "siteId": "50110859",
+          "installationStatus": "UNINSTALL_SUCCESS",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "513cf40f-0081-41ff-8c6e-3d9a53535eb2",
+          "siteId": "50110859",
+          "installationStatus": "INSTALL_SUCCESS",
+          "verificationFlag": true
+        },
+        {
+          "endpointId": "5ef0230e-a490-411f-9011-1a3f349538f7",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "869bacaf-d461-4482-ab78-90e58b1e4bd6",
+          "siteId": "50110859",
+          "installationStatus": "REINSTALL_REQUESTED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "8f455a30-29b1-42e4-8023-e2fb7e22eccf",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "9affed70-7750-41b3-9d40-3a748710450c",
+          "siteId": "50122123",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "bbfa2bd1-1621-4345-8b9b-cdb1946d99da",
+          "siteId": "50110883",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "c65cad16-ce83-4980-98dc-cbbb296ccd33",
+          "siteId": "50110859",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "ccaa2f69-1f99-491e-a726-8d834770bf37",
+          "siteId": "50110859",
+          "installationStatus": "UNINSTALL_SUCCESS",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "ecf6aed7-2a00-480b-ae56-81414597e8e6",
+          "siteId": "50122438",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "eea841b1-2451-40d4-8727-b0cf8f6d6b04",
+          "siteId": "50110859",
+          "installationStatus": "INSTALL_SUCCESS",
+          "verificationFlag": false
+        },
+        {
+          "endpointId": "f59dfc24-9ab7-493e-b65e-0b26895883a5",
+          "siteId": "50122438",
+          "installationStatus": "NOT_CONFIGURED",
+          "verificationFlag": false
+        }
+      ]
+    }

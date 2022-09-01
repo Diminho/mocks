@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /entitlement/v1/partners/50016338/features
+  path: /entitlement/v1/partners/*/features
 control:
   delay: "188ms"
 response:

@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /v3/partner/50016338/patchstatus
+  path: /v3/partner/*/patchstatus
 control:
   delay: "3ms"
 response:

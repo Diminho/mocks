@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /v2/partner/50016338/antivirusstatus
+  path: /v2/partner/*/antivirusstatus
 control:
   delay: "4ms"
 response:

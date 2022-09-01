@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /os-patching/v1/partners/50016338/compliance
+  path: /os-patching/v1/partners/*/compliance
 control:
   delay: "95ms"
 response:

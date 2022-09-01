@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /webroot/v1/partners/50016338/sites/*/endpoints
+  path: /webroot/v1/partners/*/sites/*/endpoints
 control:
   delay: "270ms"
 response:

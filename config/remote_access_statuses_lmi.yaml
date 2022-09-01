@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /remoteaccess/v1/partner/50016338/installationstatusreport
+  path: /remoteaccess/v1/partner/*/installationstatusreport
 control:
   delay: "23ms"
 response:

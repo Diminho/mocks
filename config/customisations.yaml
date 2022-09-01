@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /extensibility-management/v1/partners/50016338/ui-customizations/devices-summary_endpoint-protection
+  path: /extensibility-management/v1/partners/*/ui-customizations/devices-summary_endpoint-protection
 response:
   statusCode: 200
   body: >

@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /v1/partner/50016338/sites
+  path: /v1/partner/*/sites
 control:
   delay: "10ms"
 response:

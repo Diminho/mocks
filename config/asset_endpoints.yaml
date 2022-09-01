@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /asset/v1/partner/50016338/endpoints/*
+  path: /asset/v1/partner/*/endpoints/*
 control:
   delay: "110ms"
 response:

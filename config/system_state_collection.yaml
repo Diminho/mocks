@@ -1,6 +1,6 @@
 request:
   method: GET
-  path: /systemstate/v1/partner/50016338/endpoints
+  path: /systemstate/v1/partner/*/endpoints
 control:
   delay: "55ms"
 response:

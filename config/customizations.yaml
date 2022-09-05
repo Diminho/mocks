@@ -1,10 +1,7 @@
 request:
   method: GET
   path: /extensibility-management/v1/partners/*/ui-customizations/devices-summary_endpoint-protection
-control:
-  delay: "200ms"
 response:
   statusCode: 200
   body: >
-    [
-    ]
+    []
